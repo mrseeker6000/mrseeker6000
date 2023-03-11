@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/336b66406be3b3e054ad010e201b3abf/b2cde9e394d1a58b-e4/s540x810/eb5f520b03f54d322d828d159215a5b6d9b851bc.gifv)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/ff594f33da77efb4040f3b1ea8852979/701920ef4fe212f5-15/s540x810/f6ae993947f55fdb35c17d883dae86e4c3ff1988.gifv)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sachitha Jayasinghe</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">
