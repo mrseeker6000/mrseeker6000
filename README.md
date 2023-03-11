@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/0258609367bd2bbdc12baf895dd6198c/5ccd5688199c4410-f6/s640x960/ac9116e833fe9aa250c75c435118589f17252eb0.gifv)]
 <h1 align="center">Hi 👋, I'm Sachitha Jayasinghe</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/checkmatedigital-code-coding-monkey-QNFhOolVeCzPQ2Mx85">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0e4dd1a9dcffee2850daf3d7337111b1/c5dc3b00707b1218-eb/s540x810/abef37de27be0e0edddc137dc8533809614ddaab.gifv">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker6000&label=Profile%20views&color=0e75b6&style=flat" alt="mrseeker6000" /> </p>
