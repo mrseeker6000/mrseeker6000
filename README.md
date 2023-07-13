@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
-Working @ GenZ DevLabs<br>Undergraduate IJSE - Institute of Software Engineering...
+Working @ GenZ DevLabs<br>Undergraduate IJSE - Institute of Software Engineering
 
 
 ## 🌐 Socials:
